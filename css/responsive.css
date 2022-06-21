@@ -1,0 +1,15 @@
+@media (max-width:768px) {
+    .burger {
+        display: block;
+    }
+    .navbar ul {
+        display: none;
+    }
+    
+    
+}
+@media (max-width:1080px) {
+    .navbar ul li a {
+        font-size: 25px;
+    }
+}
