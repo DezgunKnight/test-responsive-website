@@ -5,7 +5,13 @@
     .navbar ul {
         display: none;
     }
-    
+    .logo {
+        font-size: 28px;
+    }
+    .burger {
+        max-width: 40px;
+        width: 100%;
+    }
     
 }
 @media (max-width:1080px) {
